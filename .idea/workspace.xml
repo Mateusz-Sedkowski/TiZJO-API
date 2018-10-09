@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e2dcce5-504a-44ce-93fd-c20681cf5059" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/users/_user.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/users/index.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/users/show.json.jbuilder" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/150bb62f-1899-4689-89ee-69efaacb158e.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/150bb62f-1899-4689-89ee-69efaacb158e.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/150bb62f-1899-4689-89ee-69efaacb158e/storage_v2/_src_/database/tizjo_api_development.ARmCSw/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/150bb62f-1899-4689-89ee-69efaacb158e/storage_v2/_src_/database/tizjo_api_development.ARmCSw/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -157,8 +150,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="79" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -447,25 +440,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539085837823</updated>
-      <workItem from="1539085839281" duration="2184000" />
+      <workItem from="1539085839281" duration="2511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2184000" />
+    <option name="totallyTimeSpent" value="2511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2863248" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2863248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" weight="0.33956388" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917964" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32917964" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -541,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="79" selection-start-line="1" selection-start-column="79" selection-end-line="1" selection-end-column="79" />
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
