@@ -1,4 +1,4 @@
-FROM ruby:2.3.3
+FROM ruby:2.4.1
 
 RUN apt-get update && apt-get install -qq -y build-essential libpq-dev postgresql-client-9.4 apt-transport-https
 
@@ -11,6 +11,6 @@ RUN mkdir $APP_HOME
 WORKDIR $APP_HOME
 
 ADD Gemfile* $APP_HOME/
-ADD package.json* $APP_HOME/
+# ADD package.json* $APP_HOME/
 RUN bundle install --jobs 20 --retry 5
 RUN npm install
